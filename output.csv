@@ -1,0 +1,32 @@
+Datasets,Classes,Sentence Length,Dataset Size,Vocab Size,Training Set,Validation Set,Test Set
+TCM,5,428,5413,"99,243",3789,1082,541
+CCKS,4,73,400,2980,280,80,40
+Hallmarks,3,833,8474,"29,141",5931,1694,847
+AIM,2,833,2648,"29,141",1853,529,264
+Methods,TCM,CCKS,AIM,Hallmarks
+CNN,73.17,89.37,95.47,70.85
+LSTM,60.00,80.62,57.36,72.73
+RCNN,62.03,84.38,96.06,74.76
+HAN,76.62,88.75,97.30,74.70
+SVM,48.78,53.00,89.93,70.34
+Fasttext,80.00,75.01,90.28,80.45
+Logistic Regression,56.50,73.12,89.84,74.24
+AC-BiLSTM,80.51,88.12,97.92,74.97
+Our method,89.09,93.75,97.73,75.72
+3.,"Kaurova, O.; Alexandrov, M.; Blanco, X. Classification of free text clinical narratives (short review). Bus. Eng."
+"","Appll. Intell. Inf. Syst. 2011, 124, 255–266."
+4.,"Hoang, N.; Patrick, J. Text Mining in Clinical Domain: Dealing with Noise. In Proceedings of the 22nd ACM"
+"","SIGKDD International Conference on Knowledge Discovery and Data Mining, San Francisco, CA, USA,"
+"",13–17 August 2016; pp. 549–558.
+5.,"Huang, K.; Altosaar, J.; Ranganath, R. ClinicalBERT: Modeling Clinical Notes and Predicting Hospital"
+"","Readmission. Inf. Sci. 2019, 394–395, 38–52."
+6.,"Chung, J.; Gülçehre, Ç.; Cho, K.; Bengio, Y. Empirical evaluation of gated recurrent neural networks on"
+"","sequence modeling. In Proceedings of the NIPS 2014 Learning and Representation Learning Workshop,"
+"","Montreal, QC, Canada, 12 December 2014; pp. 1–9."
+7.,"Hochreiter, S.; Schmidhuber, J. Long short-term memory. Neural Comput. 1997, 9, 1735–1780. [CrossRef]"
+"",[PubMed]
+8.,"Wallach, H.M. Topic modeling: Beyond bag-of-words. In Proceedings of the 23rd International Conference"
+"","on Machine Learning, Pittsburgh, PA, USA, 25–29 June 2006; pp. 977–984."
+9.,"Yoon, K. Convolutional Neural Networks for Sentence Classification. In Proceedings of the 19th Conference"
+"","on Empirical Methods in Natural Language Processing, Doha, Qatar, 25–29 October 2014; pp. 1746–1751."
+10.,"Johnson, R.; Tong, Z. Effective Use of Word Order for Text Categorization with Convolutional Neural"
